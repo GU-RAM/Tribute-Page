@@ -9,6 +9,7 @@ html {
 
 body {
     font-size: 1.6rem;
+    font-family: 'Courier New', Courier, monospace;
     text-align: center;
     line-height: 1.5;   
     padding: 20px 10px; 
