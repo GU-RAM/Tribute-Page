@@ -9,7 +9,7 @@ html {
 
 body {
     font-size: 1.6rem;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Courier New', Courier, monospace  ;
     text-align: center;
     line-height: 1.5;   
     padding: 20px 10px; 
@@ -49,6 +49,7 @@ figure {
 
 #image {
     max-width: 100%;
+    display: block;
 }
 
 #img-caption {
